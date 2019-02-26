@@ -1,6 +1,3 @@
 from __future__ import division
 
-x = 1
-print (x)
-x += x
-print(x)
+print ( 4%2) 
