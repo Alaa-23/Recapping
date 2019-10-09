@@ -12,6 +12,8 @@ x = input("\n-- Enter list item:\n--> ")
 ll.insert(i,x)
 
 print('\n-- Great! Here is your updated list: '+str(ll))"""
+#show what was going on here
+print(i)
 
 #ll.reverse()
 #print(ll)
